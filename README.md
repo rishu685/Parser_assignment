@@ -229,9 +229,4 @@ The codebase follows these conventions:
 
 This project is created for evaluation purposes.
 
----
 
-**Created**: October 2025  
-**Framework**: Next.js 15 with App Router  
-**Language**: TypeScript  
-**Styling**: Tailwind CSS
