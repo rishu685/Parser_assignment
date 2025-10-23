@@ -5,10 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
-    "lint": "eslint",
-    "deploy": "npm run build && npm run export"
+    "lint": "eslint"
   },
   "dependencies": {
     "@types/dompurify": "^3.0.5",
